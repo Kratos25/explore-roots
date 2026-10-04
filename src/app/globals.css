@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --header-height: 4rem;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-canvas font-sans text-ink antialiased;
+  }
+
+  /* Anchor links land below the sticky header instead of under it. */
+  [id] {
+    scroll-margin-top: calc(var(--header-height) + 1.5rem);
+  }
+
+  ::selection {
+    @apply bg-sun text-ink;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-navy ring-offset-2 ring-offset-canvas;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* FAQ +/- marker, driven purely by the <details open> state. */
+  .faq-item summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .faq-marker::before,
+  .faq-marker::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    background-color: currentColor;
+    border-radius: 1px;
+    transform: translate(-50%, -50%);
+  }
+
+  .faq-marker::before {
+    width: 14px;
+    height: 2px;
+  }
+
+  .faq-marker::after {
+    width: 2px;
+    height: 14px;
+    transition: transform 150ms ease, opacity 150ms ease;
+  }
+
+  /* Open state collapses the vertical bar, turning + into − */
+  .faq-item[open] .faq-marker::after {
+    transform: translate(-50%, -50%) scaleY(0);
+    opacity: 0;
+  }
+
+  /* Hide the native scrollbar on the gallery strip without losing scrolling. */
+  .no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}

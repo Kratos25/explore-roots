@@ -1,0 +1,32 @@
+[
+  {
+    "id": "drivers",
+    "question": "Do you provide vehicles with drivers?",
+    "answer": "Yes. All our vehicles are available with drivers for local and outstation travel. We provide vehicles for outstation journeys, sightseeing and multi-day trips."
+  },
+  {
+    "id": "outstation",
+    "question": "Can I rent a car for an outstation trip?",
+    "answer": "Yes. Outstation trips are our most common booking. Share your pickup point, destination and dates on WhatsApp and we will send you a fare that already includes the driver."
+  },
+  {
+    "id": "family",
+    "question": "Which vehicle is suitable for my family?",
+    "answer": "For up to four people a Swift Dzire is enough. For five or more, or for hill routes with luggage, an Innova, Scorpio or Bolero is the better pick. Tell us your group size and route and we will suggest one."
+  },
+  {
+    "id": "booking-time",
+    "question": "How early should I book?",
+    "answer": "A day ahead is usually fine for local trips. For multi-day packages and peak season travel, book a week ahead so you get the vehicle and driver you want."
+  },
+  {
+    "id": "full-day",
+    "question": "Can I hire a vehicle for a full-day local trip?",
+    "answer": "Yes. Full-day local hire runs on an hourly or per-day rate, both listed on every vehicle card. Extra hours beyond the package are charged at the hourly rate."
+  },
+  {
+    "id": "payment",
+    "question": "What is included in the fare?",
+    "answer": "The fare covers the vehicle and the driver. Fuel, tolls, permits and parking are billed on actuals unless you ask for an all-inclusive quote when you book."
+  }
+]

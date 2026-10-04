@@ -1,0 +1,32 @@
+{
+  "heading": "About Us",
+  "intro": [
+    "Explore Roots is a local driver-driven car rental and travel service helping travellers explore their destinations comfortably and conveniently.",
+    "With experienced drivers and multiple vehicle options, our goal is simple — make your journey comfortable, straightforward and dependable."
+  ],
+  "images": [
+    {
+      "image": "/images/about/fleet-hill-road.jpg",
+      "alt": "Two Explore Roots vehicles parked on a hill road during a trip"
+    },
+    {
+      "image": "/images/about/fleet-parked-town.jpg",
+      "alt": "Explore Roots cabs lined up and ready for the day's bookings"
+    }
+  ],
+  "whyChooseUs": {
+    "heading": "Why to choose Explore Roots?",
+    "subheading": "Travel With Confidence",
+    "points": [
+      { "id": "driver", "label": "Driver-Driven Travel", "detail": "Every booking comes with a driver who has run the route before." },
+      { "id": "options", "label": "Multiple Vehicle Options", "detail": "Sedans, SUVs and tempo travellers for any group size." },
+      { "id": "local", "label": "Local Travel Knowledge", "detail": "Stops, permits and timings planned by people who live here." },
+      { "id": "flexible", "label": "Flexible Travel", "detail": "Hourly, full-day or multi-day — change plans mid-trip if you need to." },
+      { "id": "whatsapp", "label": "Direct WhatsApp Assistance", "detail": "One number for booking, changes and help on the road." }
+    ],
+    "images": [
+      { "image": "/images/about/valley-stay.jpg", "alt": "Red-roofed cottages beside a waterfall in a green valley" },
+      { "image": "/images/about/fortuner-forest.jpg", "alt": "Toyota Fortuner on a forest road under a rock overhang" }
+    ]
+  }
+}

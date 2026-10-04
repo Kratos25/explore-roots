@@ -1,0 +1,113 @@
+{
+  "name": "Explore Roots",
+  "legalName": "Explore Roots Travels",
+  "tagline": "From Roots to New Routes",
+  "shortDescription": "Local driver-driven car rental and North East India tour packages — Assam, Meghalaya, Arunachal Pradesh and Nagaland.",
+  "defaultKeywords": [
+    "North East India tour packages",
+    "Assam tour package",
+    "Meghalaya tour package",
+    "Arunachal Pradesh tour package",
+    "Hornbill Festival package",
+    "car rental Guwahati",
+    "driver driven car rental",
+    "outstation cab booking",
+    "Innova Crysta rental Guwahati",
+    "tempo traveller hire North East"
+  ],
+  "contact": {
+    "phoneDisplay": "9181788872",
+    "phoneHref": "+919181788872",
+    "whatsappDisplay": "+91 91817 88872",
+    "email": "roots.explore01@gmail.com",
+    "whatsappNote": "Call or WhatsApp — replies usually within a few minutes"
+  },
+  "address": {
+    "street": "Guwahati",
+    "locality": "Guwahati",
+    "region": "Assam",
+    "postalCode": "781001",
+    "country": "India",
+    "full": "Guwahati, Assam, India",
+    "mapUrl": "https://maps.google.com/?q=Guwahati+Assam"
+  },
+  "geo": {
+    "latitude": 26.1445,
+    "longitude": 91.7362
+  },
+  "serviceAreas": [
+    "Assam",
+    "Meghalaya",
+    "Arunachal Pradesh",
+    "Nagaland",
+    "Sikkim"
+  ],
+  "openingHours": "Mo-Su 06:00-22:00",
+  "priceRange": "₹₹",
+  "rating": {
+    "value": 4.8,
+    "count": 700,
+    "label": "4.8/5"
+  },
+  "logo": {
+    "src": "/images/brand/explore-roots-logo.png",
+    "srcLight": "/images/brand/explore-roots-logo-light.png",
+    "width": 180,
+    "height": 48,
+    "alt": "Explore Roots — car rental and North East India tour packages"
+  },
+  "og": {
+    "image": "/images/brand/og-cover.jpg",
+    "width": 1200,
+    "height": 630,
+    "alt": "Explore Roots car rental and North East India tour packages"
+  },
+  "social": {
+    "facebook": "https://facebook.com/exploreroots",
+    "instagram": "https://instagram.com/exploreroots",
+    "youtube": "https://youtube.com/@exploreroots"
+  },
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "Vehicles", "href": "/vehicles" },
+    { "label": "Travel Packages", "href": "/travel-packages" },
+    { "label": "About Us", "href": "/about-us" }
+  ],
+  "footerLinks": [
+    {
+      "title": "Quick Links",
+      "items": [
+        { "label": "Vehicles", "href": "/vehicles" },
+        { "label": "Travel Packages", "href": "/travel-packages" }
+      ]
+    },
+    {
+      "title": "About",
+      "items": [
+        { "label": "Company", "href": "/about-us" },
+        { "label": "Site Map", "href": "/sitemap.xml" }
+      ]
+    }
+  ],
+  "stats": [
+    { "id": "vehicles", "value": "25+", "label": "Vehicles" },
+    { "id": "destinations", "value": "15+", "label": "Destination" },
+    { "id": "travellers", "value": "700+", "label": "Happy Travellers" },
+    { "id": "drivers", "value": "15+", "label": "Experienced Drivers" },
+    { "id": "years", "value": "10", "label": "Years of Service" }
+  ],
+  "rentalTerms": {
+    "localDutyNote": "Local rates are for a standard 8–10 hour duty.",
+    "driverIncluded": "Driver is included in the rental price.",
+    "notIncluded": [
+      "Fuel",
+      "Toll",
+      "Parking",
+      "Entry fees",
+      "Permits",
+      "Ferry charges",
+      "Special-route charges"
+    ],
+    "notIncludedNote": "Fuel is not included. The customer pays fuel, toll, parking, entry fees, permits, ferry and special-route charges separately."
+  }
+}

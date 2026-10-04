@@ -1,0 +1,7 @@
+[
+  { "id": "g1", "image": "/images/gallery/tawang-monastery-statue.jpg", "alt": "Golden Buddha statue at Tawang, Arunachal Pradesh", "orientation": "portrait" },
+  { "id": "g2", "image": "/images/gallery/travellers-hill-road.jpg", "alt": "Travellers standing beside their Explore Roots cab on a hill road", "orientation": "portrait" },
+  { "id": "g3", "image": "/images/gallery/tawang-town-clouds.jpg", "alt": "Tawang town under low clouds seen from the ridge", "orientation": "portrait" },
+  { "id": "g4", "image": "/images/gallery/snow-chains-mechuka.jpg", "alt": "Driver fitting snow chains on the route to Mechuka", "orientation": "portrait" },
+  { "id": "g5", "image": "/images/gallery/kaziranga-elephant-safari.jpg", "alt": "Elephant safari at sunrise in Kaziranga National Park", "orientation": "portrait" }
+]

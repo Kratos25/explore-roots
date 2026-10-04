@@ -1,0 +1,966 @@
+[
+  {
+    "id": "hornbill-festival-2026",
+    "slug": "hornbill-festival-2026",
+    "title": "Hornbill Festival 2026 — Nagaland Festival Tour",
+    "cardTitle": "Nagaland Festival Tour — Hornbill Festival 2026",
+    "region": "Nagaland",
+    "nights": 5,
+    "days": 6,
+    "dates": "1–10 December 2026",
+    "datesShort": "1–10 Dec 2026",
+    "destination": "Kisama, Kohima, Nagaland",
+    "destinationShort": "Kisama, Kohima",
+    "themes": [
+      "Culture",
+      "Music",
+      "Tribal Heritage",
+      "Food",
+      "Adventure",
+      "Mountains"
+    ],
+    "rating": 4.9,
+    "reviewCount": 86,
+    "featured": true,
+    "order": 1,
+    "badge": {
+      "label": "Hurry! Limited seats left",
+      "tone": "urgent"
+    },
+    "summary": "Nagaland's most iconic celebration over six days — festival performances at Kisama, the heritage village of Khonoma, and the mountains around Kohima and Dzukou Valley.",
+    "metaDescription": "Hornbill Festival 2026 tour, 5 nights and 6 days from Guwahati. Kisama festival days, Kohima, Khonoma heritage village and an optional Dzukou Valley trek. From ₹14,999 per person.",
+    "whyThisPackage": "Festival access, local storytelling, scenic drives and heritage exploration at a pace that lets you absorb the music, food and mountain scenery of Nagaland without feeling rushed.",
+    "route": [
+      "Guwahati",
+      "Dimapur",
+      "Kohima",
+      "Kisama",
+      "Khonoma",
+      "Dzukou Valley",
+      "Dimapur",
+      "Guwahati"
+    ],
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Standard",
+        "price": 14999,
+        "default": true
+      },
+      {
+        "id": "deluxe",
+        "name": "Deluxe",
+        "price": 19999
+      },
+      {
+        "id": "premium",
+        "name": "Premium",
+        "price": 27999
+      }
+    ],
+    "priceNote": "Indicative rates. Final price depends on group size, hotel category, vehicle and festival-season availability. Group discounts available for couples, families, friends, corporate and student groups.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Guwahati → Dimapur → Kohima",
+        "description": "Pickup from Guwahati and the drive through Dimapur to Kohima. Check in and keep the evening free to settle in before the festival days begin.",
+        "tags": [
+          "Pickup from Guwahati",
+          "Drive to Dimapur",
+          "Evening in Kohima"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Kisama Hornbill Festival",
+        "description": "A full day at the festival grounds — traditional Naga performances, indigenous games, handlooms and handicrafts, Naga cuisine and cultural exhibitions.",
+        "tags": [
+          "Tribal performances",
+          "Indigenous games",
+          "Handicrafts",
+          "Naga cuisine"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Hornbill Festival + Kohima",
+        "description": "Morning at Kisama Heritage Village, afternoon festival activities, then Kohima local sightseeing including the War Cemetery and the local market.",
+        "tags": [
+          "Kisama Heritage Village",
+          "Kohima War Cemetery",
+          "Local market"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Khonoma village",
+        "description": "Khonoma Heritage Village for traditional Naga architecture, community life, mountain landscapes and local cuisine. An optional Dzukou Valley day hike is possible, subject to weather and local conditions.",
+        "tags": [
+          "Khonoma Heritage Village",
+          "Dzukou Valley hike (optional)",
+          "Local cuisine"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Hornbill Festival",
+        "description": "A second full festival day — tribal dances, traditional costumes, music performances, handicrafts and time to shop for souvenirs.",
+        "tags": [
+          "Tribal dances",
+          "Music performances",
+          "Handicraft shopping"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Kohima → Dimapur → Guwahati",
+        "description": "Breakfast, then the drive back through Dimapur and on to Guwahati. Tour ends.",
+        "tags": [
+          "Drive to Dimapur",
+          "Return to Guwahati"
+        ]
+      }
+    ],
+    "includes": [
+      "Guwahati–Nagaland–Guwahati transport",
+      "Private tourist vehicle",
+      "Driver & fuel",
+      "Hotel accommodation",
+      "Daily breakfast",
+      "Kohima sightseeing",
+      "Kisama transfer",
+      "Khonoma sightseeing",
+      "Tour coordination"
+    ],
+    "optional": [
+      "Hornbill Festival entry / tickets",
+      "Lunch & dinner",
+      "Dzukou Valley trek",
+      "Local guide",
+      "Adventure activities",
+      "Premium accommodation"
+    ],
+    "vehicleOptions": [
+      "Dzire",
+      "Innova",
+      "Innova Crysta",
+      "Scorpio",
+      "Fortuner",
+      "Traveller"
+    ],
+    "notes": [
+      "The official festival programme includes cultural performances, handicrafts, indigenous games, food, arts, music and adventure activities.",
+      "The Dzukou Valley hike is subject to weather and local conditions."
+    ],
+    "images": {
+      "card": "/images/packages/hornbill-festival/card.jpg",
+      "gallery": [
+        {
+          "image": "/images/packages/hornbill-festival/naga-dancers.jpg",
+          "alt": "Naga dancers in traditional dress performing at the Hornbill Festival"
+        },
+        {
+          "image": "/images/packages/hornbill-festival/khonoma-village.jpg",
+          "alt": "Stone pathway through Khonoma heritage village in Nagaland"
+        },
+        {
+          "image": "/images/packages/hornbill-festival/dzukou-valley.jpg",
+          "alt": "Trekkers crossing the green slopes of Dzukou Valley"
+        }
+      ]
+    }
+  },
+  {
+    "id": "all-meghalaya-grand-tour",
+    "slug": "all-meghalaya-grand-tour",
+    "title": "All Meghalaya Grand Tour Package",
+    "cardTitle": "All Meghalaya Grand Tour Package",
+    "region": "Meghalaya",
+    "nights": 11,
+    "days": 12,
+    "dates": "Available year round",
+    "datesShort": "Year round",
+    "destination": "Shillong, Sohra, Dawki, Jowai, Garo Hills",
+    "destinationShort": "Shillong & Garo Hills",
+    "themes": [
+      "Clouds",
+      "Waterfalls",
+      "Caves",
+      "Living Root Bridges",
+      "Lakes",
+      "Hills",
+      "Tribal Culture"
+    ],
+    "rating": 4.9,
+    "reviewCount": 112,
+    "featured": true,
+    "order": 2,
+    "badge": {
+      "label": "Get exclusive deals only for you",
+      "tone": "offer"
+    },
+    "summary": "The full Meghalaya circuit over twelve days — Shillong and Sohra, the double-decker living root bridge at Nongriat, Dawki's clear water, the Jaintia Hills and the Garo Hills.",
+    "metaDescription": "All Meghalaya grand tour, 11 nights and 12 days from Guwahati. Shillong, Sohra, Nongriat, Mawlynnong, Dawki, Jowai, Mawphlang and the Garo Hills. From ₹19,999 per person.",
+    "whyThisPackage": "Most Meghalaya trips stop at Shillong and Sohra. This one keeps going — into the Jaintia Hills and all the way to the Garo Hills, which almost no standard itinerary covers.",
+    "route": [
+      "Guwahati",
+      "Shillong",
+      "Sohra",
+      "Nongriat",
+      "Mawlynnong",
+      "Dawki",
+      "Jowai",
+      "Nartiang",
+      "Krang Suri",
+      "Mawphlang",
+      "Tura",
+      "Garo Hills",
+      "Guwahati"
+    ],
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Standard",
+        "price": 19999,
+        "default": true
+      },
+      {
+        "id": "deluxe",
+        "name": "Deluxe",
+        "price": 25999
+      },
+      {
+        "id": "premium",
+        "name": "Premium",
+        "price": 34999
+      }
+    ],
+    "priceNote": "Indicative package pricing. Final price depends on group size, hotel category, vehicle and season. Custom group packages available for couples, families, friends, corporate and student groups.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Guwahati → Shillong",
+        "description": "Arrival and pickup from Guwahati, a stop at Umiam Lake on the way up, then Shillong local sightseeing and an overnight stay.",
+        "tags": [
+          "Umiam Lake",
+          "Shillong sightseeing"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Shillong local",
+        "description": "A full day in Shillong — Ward's Lake, the Don Bosco Museum, Shillong Peak, Elephant Falls and an evening at Police Bazaar.",
+        "tags": [
+          "Ward's Lake",
+          "Don Bosco Museum",
+          "Shillong Peak",
+          "Elephant Falls",
+          "Police Bazaar"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Shillong → Sohra",
+        "description": "The drive down to Sohra with stops at Mawkdok Dympep valley viewpoint, the Garden of Caves, Arwah Cave, Nohkalikai Falls and Dainthlen Falls.",
+        "tags": [
+          "Mawkdok viewpoint",
+          "Arwah Cave",
+          "Nohkalikai Falls",
+          "Dainthlen Falls"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Sohra → Nongriat",
+        "description": "The trek down to the double-decker living root bridge at Nongriat, the village itself and the natural pools and waterfalls around it, then back to Sohra.",
+        "tags": [
+          "Double-decker root bridge",
+          "Nongriat village",
+          "Natural pools"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Sohra → Mawlynnong → Dawki",
+        "description": "Mawlynnong village and the Nohwet living root bridge, then on to Dawki for the Umngot river and boating, with an overnight around Dawki or Shnongpdeng.",
+        "tags": [
+          "Mawlynnong village",
+          "Nohwet root bridge",
+          "Umngot river boating"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Dawki → Jowai",
+        "description": "The drive into the Jaintia Hills, Jowai sightseeing and the rivers and landscapes around it.",
+        "tags": [
+          "Jaintia Hills",
+          "Jowai sightseeing"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Jowai / Jaintia Hills",
+        "description": "Krang Suri Falls, the Nartiang monoliths, local villages and the heritage of the Jaintia region.",
+        "tags": [
+          "Krang Suri Falls",
+          "Nartiang monoliths",
+          "Jaintia heritage"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Jowai → Mawphlang → Shillong",
+        "description": "The Mawphlang sacred grove and a local cultural experience, then the scenic Khasi Hills drive back to Shillong.",
+        "tags": [
+          "Mawphlang Sacred Grove",
+          "Khasi Hills drive"
+        ]
+      },
+      {
+        "day": 9,
+        "title": "Shillong → Tura",
+        "description": "A long scenic drive west into the Garo Hills, with Tura local sightseeing and Tura Peak on arrival.",
+        "tags": [
+          "Drive to Garo Hills",
+          "Tura Peak"
+        ]
+      },
+      {
+        "day": 10,
+        "title": "Garo Hills exploration",
+        "description": "Pelga Falls, Aminda Rangsa village and a Garo cultural experience alongside local sightseeing.",
+        "tags": [
+          "Pelga Falls",
+          "Aminda Rangsa Village",
+          "Garo culture"
+        ]
+      },
+      {
+        "day": 11,
+        "title": "Garo Hills → Tura",
+        "description": "More of the Garo Hills — nature, villages and a leisurely evening back in Tura.",
+        "tags": [
+          "Village experience",
+          "Leisure evening"
+        ]
+      },
+      {
+        "day": 12,
+        "title": "Tura → Guwahati",
+        "description": "The return journey to Guwahati. Tour ends.",
+        "tags": [
+          "Return to Guwahati"
+        ]
+      }
+    ],
+    "includes": [
+      "Private tourist vehicle",
+      "Driver & fuel",
+      "Hotel / homestay accommodation",
+      "Daily breakfast",
+      "Pickup & drop",
+      "Sightseeing as per itinerary",
+      "Tour coordination",
+      "Local travel assistance"
+    ],
+    "optional": [
+      "Lunch & dinner",
+      "Boating",
+      "Adventure activities",
+      "Cave exploration",
+      "Local guide",
+      "Entry tickets",
+      "Special experiences"
+    ],
+    "vehicleOptions": [
+      "Dzire",
+      "Innova",
+      "Innova Crysta",
+      "Scorpio",
+      "Fortuner",
+      "Traveller"
+    ],
+    "notes": [
+      "The Nongriat trek involves considerable walking and stairs. Suitable footwear and reasonable fitness are recommended."
+    ],
+    "images": {
+      "card": "/images/packages/all-meghalaya/card.jpg",
+      "gallery": [
+        {
+          "image": "/images/packages/all-meghalaya/seven-sisters-falls.jpg",
+          "alt": "Seven Sisters waterfall cascading down green cliffs in Meghalaya"
+        },
+        {
+          "image": "/images/packages/all-meghalaya/living-root-bridge.jpg",
+          "alt": "Double-decker living root bridge at Nongriat"
+        },
+        {
+          "image": "/images/packages/all-meghalaya/dawki-river.jpg",
+          "alt": "Clear water of the Umngot river at Dawki with boats"
+        }
+      ]
+    }
+  },
+  {
+    "id": "all-arunachal-grand-tour",
+    "slug": "all-arunachal-grand-tour",
+    "title": "All Arunachal Pradesh Grand Tour Package",
+    "cardTitle": "All Arunachal Grand Tour Package",
+    "region": "Arunachal Pradesh",
+    "nights": 20,
+    "days": 21,
+    "dates": "Available year round",
+    "datesShort": "Year round",
+    "destination": "Tawang, Ziro, Mechuka, Pasighat, Anini",
+    "destinationShort": "Tawang to Anini",
+    "themes": [
+      "Mountains",
+      "Monasteries",
+      "Valleys",
+      "Tribal Culture",
+      "Wildlife",
+      "Adventure"
+    ],
+    "rating": 4.9,
+    "reviewCount": 141,
+    "featured": true,
+    "order": 3,
+    "badge": {
+      "label": "Get exclusive deals only for you",
+      "tone": "offer"
+    },
+    "summary": "Twenty-one days across Arunachal Pradesh, combining the Tawang, Ziro–Aalo–Pasighat, Aalo–Mechuka and Roing–Mayudia–Anini circuits into one continuous journey.",
+    "metaDescription": "All Arunachal Pradesh grand tour, 20 nights and 21 days from Guwahati. Tawang, Sela Pass, Ziro, Mechuka, Pasighat, Mayudia and Anini. From ₹39,999 per person.",
+    "whyThisPackage": "This is the long one. Four separate tourism circuits strung together so you cross the state end to end instead of doubling back to Guwahati between regions.",
+    "route": [
+      "Guwahati",
+      "Bhalukpong",
+      "Bomdila",
+      "Dirang",
+      "Tawang",
+      "Itanagar",
+      "Ziro",
+      "Daporijo",
+      "Aalo",
+      "Mechuka",
+      "Pasighat",
+      "Roing",
+      "Mayudia",
+      "Anini",
+      "Tezu",
+      "Guwahati"
+    ],
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Standard",
+        "price": 39999,
+        "default": true
+      },
+      {
+        "id": "deluxe",
+        "name": "Deluxe",
+        "price": 49999
+      },
+      {
+        "id": "premium",
+        "name": "Premium",
+        "price": 64999
+      }
+    ],
+    "priceNote": "Price based on minimum group size, hotel category and vehicle selection. Custom packages available for couples, families and groups.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Guwahati → Bhalukpong",
+        "description": "Arrival and pickup from Guwahati, then the drive towards Arunachal Pradesh with an overnight at Bhalukpong.",
+        "tags": [
+          "Pickup from Guwahati",
+          "Overnight Bhalukpong"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bhalukpong → Bomdila",
+        "description": "A scenic Himalayan drive up to Bomdila, with the monastery, the local market and mountain views.",
+        "tags": [
+          "Bomdila Monastery",
+          "Local market",
+          "Mountain views"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Bomdila → Dirang",
+        "description": "Dirang valley and monastery, with the hot spring and local sightseeing.",
+        "tags": [
+          "Dirang Valley",
+          "Dirang Monastery",
+          "Hot spring"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Dirang → Tawang",
+        "description": "The big climb over Sela Pass, with Sela Lake, Jaswant Garh and Nuranang Falls on the way to Tawang.",
+        "tags": [
+          "Sela Pass",
+          "Sela Lake",
+          "Jaswant Garh",
+          "Nuranang Falls"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Tawang local",
+        "description": "A full day in Tawang — the monastery, the War Memorial, the Giant Buddha statue and Urgelling Monastery.",
+        "tags": [
+          "Tawang Monastery",
+          "War Memorial",
+          "Giant Buddha",
+          "Urgelling Monastery"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Tawang → Bum La / Madhuri Lake",
+        "description": "High-altitude Himalayan sightseeing towards Bum La Pass and Sangestar (Madhuri) Lake, subject to weather, road conditions and clearances.",
+        "tags": [
+          "Bum La Pass",
+          "Madhuri Lake",
+          "High-altitude sightseeing"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Tawang → Bomdila / Dirang",
+        "description": "The return journey back through the Himalayas with an overnight halt.",
+        "tags": [
+          "Himalayan drive",
+          "Overnight halt"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Bomdila → Itanagar",
+        "description": "A scenic journey down to Itanagar, with local sightseeing and Ganga Lake.",
+        "tags": [
+          "Itanagar sightseeing",
+          "Ganga Lake"
+        ]
+      },
+      {
+        "day": 9,
+        "title": "Itanagar → Ziro",
+        "description": "The drive through mountain landscapes into Ziro valley, and a first look at Apatani villages and culture.",
+        "tags": [
+          "Ziro Valley",
+          "Apatani culture"
+        ]
+      },
+      {
+        "day": 10,
+        "title": "Ziro local",
+        "description": "Hong Village, Hapoli, Kile Pakho and the pine forests and valley viewpoints around Ziro.",
+        "tags": [
+          "Hong Village",
+          "Hapoli",
+          "Kile Pakho",
+          "Pine forests"
+        ]
+      },
+      {
+        "day": 11,
+        "title": "Ziro → Daporijo",
+        "description": "A mountain road journey to Daporijo with a local village and cultural experience.",
+        "tags": [
+          "Mountain roads",
+          "Village experience"
+        ]
+      },
+      {
+        "day": 12,
+        "title": "Daporijo → Aalo",
+        "description": "Into the Siyom river region, with scenic valleys and local sightseeing around Aalo.",
+        "tags": [
+          "Siyom River",
+          "Scenic valleys"
+        ]
+      },
+      {
+        "day": 13,
+        "title": "Aalo → Mechuka",
+        "description": "The drive towards Mechuka valley through mountain landscapes and river valleys.",
+        "tags": [
+          "Drive to Mechuka",
+          "River valleys"
+        ]
+      },
+      {
+        "day": 14,
+        "title": "Mechuka local",
+        "description": "Mechuka valley, Samten Yongcha Monastery, the Siyom river and the local Memba culture.",
+        "tags": [
+          "Mechuka Valley",
+          "Samten Yongcha Monastery",
+          "Memba culture"
+        ]
+      },
+      {
+        "day": 15,
+        "title": "Mechuka → Pasighat",
+        "description": "A long scenic mountain journey down into the Siang river region.",
+        "tags": [
+          "Mountain journey",
+          "Siang River"
+        ]
+      },
+      {
+        "day": 16,
+        "title": "Pasighat",
+        "description": "The Siang river, riverside sightseeing, local tribal culture and optional adventure activities.",
+        "tags": [
+          "Siang River",
+          "Tribal culture",
+          "Adventure (optional)"
+        ]
+      },
+      {
+        "day": 17,
+        "title": "Pasighat → Roing",
+        "description": "The journey towards eastern Arunachal through river and mountain landscapes.",
+        "tags": [
+          "Eastern Arunachal",
+          "River landscapes"
+        ]
+      },
+      {
+        "day": 18,
+        "title": "Roing → Mayudia",
+        "description": "Mayudia Pass, mountain viewpoints and, depending on the season, snow.",
+        "tags": [
+          "Mayudia Pass",
+          "Mountain viewpoints",
+          "Snow (seasonal)"
+        ]
+      },
+      {
+        "day": 19,
+        "title": "Mayudia → Anini",
+        "description": "Into the Dibang valley and the remote Himalayan landscapes around Anini.",
+        "tags": [
+          "Dibang Valley",
+          "Anini sightseeing"
+        ]
+      },
+      {
+        "day": 20,
+        "title": "Anini → Tezu",
+        "description": "The return journey through scenic valleys and riverside landscapes.",
+        "tags": [
+          "Scenic valleys",
+          "Riverside landscapes"
+        ]
+      },
+      {
+        "day": 21,
+        "title": "Tezu → Guwahati",
+        "description": "The return journey to Assam. Tour ends.",
+        "tags": [
+          "Return to Guwahati"
+        ]
+      }
+    ],
+    "includes": [
+      "Private tourist vehicle",
+      "Experienced driver",
+      "Fuel & parking",
+      "Hotel / homestay accommodation",
+      "Daily breakfast",
+      "Pickup & drop",
+      "Sightseeing as per itinerary",
+      "Arunachal travel assistance",
+      "Tour coordination"
+    ],
+    "optional": [
+      "Lunch & dinner",
+      "Adventure activities",
+      "Local guide",
+      "Special experiences",
+      "Safari / entry tickets",
+      "Premium hotels"
+    ],
+    "vehicleOptions": [
+      "Dzire",
+      "Innova",
+      "Innova Crysta",
+      "Scorpio",
+      "Fortuner",
+      "Traveller"
+    ],
+    "notes": [
+      "An Inner Line Permit (ILP) is mandatory for Indian visitors entering Arunachal Pradesh. Foreign visitors require a Protected Area Permit (PAP).",
+      "In the Tawang sector, Bum La and Madhuri Lake require additional clearance.",
+      "High-altitude travel is subject to weather and road conditions."
+    ],
+    "images": {
+      "card": "/images/packages/all-arunachal/card.jpg",
+      "gallery": [
+        {
+          "image": "/images/packages/all-arunachal/tawang-monastery.jpg",
+          "alt": "Tawang monastery with snow-capped mountains behind it"
+        },
+        {
+          "image": "/images/packages/all-arunachal/sela-pass.jpg",
+          "alt": "Sela Pass road winding through high-altitude terrain"
+        },
+        {
+          "image": "/images/packages/all-arunachal/mechuka-valley.jpg",
+          "alt": "Green Mechuka valley with the Siyom river running through it"
+        }
+      ]
+    }
+  },
+  {
+    "id": "all-assam-tour",
+    "slug": "all-assam-tour",
+    "title": "All Assam Tour Package",
+    "cardTitle": "All Assam Tour Package",
+    "region": "Assam",
+    "nights": 10,
+    "days": 11,
+    "dates": "Available year round",
+    "datesShort": "Year round",
+    "destination": "Guwahati, Kaziranga, Majuli, Dibrugarh, Haflong",
+    "destinationShort": "Guwahati to Haflong",
+    "themes": [
+      "Nature",
+      "Wildlife",
+      "Heritage",
+      "Culture",
+      "Adventure"
+    ],
+    "rating": 4.9,
+    "reviewCount": 96,
+    "featured": true,
+    "order": 4,
+    "badge": {
+      "label": "Get exclusive deals only for you",
+      "tone": "offer"
+    },
+    "summary": "Eleven days across Assam — Kaziranga's rhinos, the river island of Majuli, the Ahom monuments at Sivasagar, Dibrugarh's tea gardens and the hills around Haflong.",
+    "metaDescription": "All Assam tour package, 10 nights and 11 days from Guwahati. Kaziranga, Majuli, Sivasagar, Dibrugarh, Tinsukia, Digboi, Tezpur and Haflong. From ₹15,999 per person.",
+    "whyThisPackage": "A single loop that covers wildlife, the Ahom heritage sites, tea country and the hill stations, without the backtracking most Assam itineraries involve.",
+    "route": [
+      "Guwahati",
+      "Kaziranga",
+      "Majuli",
+      "Sivasagar",
+      "Dibrugarh",
+      "Tinsukia",
+      "Digboi",
+      "Tezpur",
+      "Haflong",
+      "Guwahati"
+    ],
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Standard",
+        "price": 15999,
+        "default": true
+      },
+      {
+        "id": "deluxe",
+        "name": "Deluxe",
+        "price": 18999
+      },
+      {
+        "id": "premium",
+        "name": "Premium",
+        "price": 22999
+      }
+    ],
+    "priceNote": "Price may vary according to group size, hotel category and vehicle selection.",
+    "itinerary": [],
+    "stopHighlights": [
+      {
+        "place": "Guwahati",
+        "detail": "Kamakhya Temple, Umananda and a Brahmaputra river cruise"
+      },
+      {
+        "place": "Kaziranga",
+        "detail": "National Park, jeep safari and the Orchid & Biodiversity Park"
+      },
+      {
+        "place": "Majuli",
+        "detail": "Ferry ride, the satras, a Mishing village and island culture"
+      },
+      {
+        "place": "Sivasagar",
+        "detail": "Sivasagar Sivadol, Rang Ghar and Talatal Ghar"
+      },
+      {
+        "place": "Dibrugarh",
+        "detail": "Tea gardens, a tea estate experience and the Brahmaputra riverside"
+      },
+      {
+        "place": "Tinsukia & Digboi",
+        "detail": "Dibru-Saikhowa, the Digboi Oil Museum and heritage sites"
+      },
+      {
+        "place": "Tezpur",
+        "detail": "Agnigarh, Cole Park and sunset on the Brahmaputra"
+      },
+      {
+        "place": "Haflong",
+        "detail": "Haflong Lake, Jatinga and hill and valley views"
+      }
+    ],
+    "includes": [
+      "Private vehicle",
+      "Driver & fuel",
+      "Hotel accommodation",
+      "Daily breakfast",
+      "Pickup & drop",
+      "Sightseeing as per itinerary",
+      "Majuli ferry assistance",
+      "Tour coordination"
+    ],
+    "optional": [
+      "Safari",
+      "River cruise",
+      "Lunch & dinner",
+      "Entry fees",
+      "Special activities"
+    ],
+    "vehicleOptions": [
+      "Dzire",
+      "Innova",
+      "Innova Crysta",
+      "Scorpio",
+      "Fortuner",
+      "Traveller"
+    ],
+    "notes": [],
+    "images": {
+      "card": "/images/packages/all-assam/card.jpg",
+      "gallery": [
+        {
+          "image": "/images/packages/all-assam/kaziranga-rhino.jpg",
+          "alt": "One-horned rhino grazing in the grasslands of Kaziranga National Park"
+        },
+        {
+          "image": "/images/packages/all-assam/majuli-satra.jpg",
+          "alt": "Traditional satra building on Majuli island"
+        },
+        {
+          "image": "/images/packages/all-assam/tea-garden.jpg",
+          "alt": "Tea garden rows stretching to the horizon near Dibrugarh"
+        }
+      ]
+    }
+  },
+  {
+    "id": "sikkim-grand-tour",
+    "slug": "sikkim-grand-tour",
+    "title": "Sikkim Grand Tour",
+    "cardTitle": "Sikkim Grand Tour",
+    "region": "Sikkim",
+    "nights": 7,
+    "days": 8,
+    "dates": "Available year round",
+    "datesShort": "Year round",
+    "destination": "Gangtok, North Sikkim, West Sikkim",
+    "destinationShort": "Gangtok & beyond",
+    "themes": [
+      "Mountains",
+      "Monasteries",
+      "Lakes",
+      "Valleys",
+      "Culture"
+    ],
+    "rating": 4.8,
+    "reviewCount": 48,
+    "featured": true,
+    "order": 5,
+    "contentPending": true,
+    "badge": {
+      "label": "Hurry! Limited seats left",
+      "tone": "urgent"
+    },
+    "summary": "Eight days across Sikkim. Full itinerary and inclusions are being finalised — message us on WhatsApp for the current plan and dates.",
+    "metaDescription": "Sikkim grand tour, 7 nights and 8 days. Gangtok, North Sikkim and West Sikkim with a private vehicle and driver. From ₹24,999 per person.",
+    "whyThisPackage": "A full week in Sikkim with a driver who runs these mountain roads regularly, rather than a rushed three-day Gangtok trip.",
+    "route": [
+      "Gangtok",
+      "North Sikkim",
+      "West Sikkim"
+    ],
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Standard",
+        "price": 24999,
+        "default": true
+      },
+      {
+        "id": "deluxe",
+        "name": "Deluxe",
+        "price": 31999
+      },
+      {
+        "id": "premium",
+        "name": "Premium",
+        "price": 42999
+      }
+    ],
+    "priceNote": "Indicative rates. Final price depends on group size, hotel category, vehicle and season.",
+    "itinerary": [],
+    "includes": [
+      "Private tourist vehicle",
+      "Driver & fuel",
+      "Hotel accommodation",
+      "Daily breakfast",
+      "Pickup & drop",
+      "Sightseeing as per itinerary",
+      "Permit assistance",
+      "Tour coordination"
+    ],
+    "optional": [
+      "Lunch & dinner",
+      "Local guide",
+      "Adventure activities",
+      "Entry tickets"
+    ],
+    "vehicleOptions": [
+      "Dzire",
+      "Innova",
+      "Innova Crysta",
+      "Scorpio",
+      "Fortuner",
+      "Traveller"
+    ],
+    "notes": [
+      "Permits are required for North Sikkim and certain restricted areas. We arrange these for you."
+    ],
+    "images": {
+      "card": "/images/packages/sikkim-grand-tour/card.jpg",
+      "gallery": [
+        {
+          "image": "/images/packages/sikkim-grand-tour/valley-view.jpg",
+          "alt": "Green Sikkim valley with mountains in the distance"
+        },
+        {
+          "image": "/images/packages/sikkim-grand-tour/monastery.jpg",
+          "alt": "Buddhist monastery in the Sikkim hills"
+        },
+        {
+          "image": "/images/packages/sikkim-grand-tour/mountain-lake.jpg",
+          "alt": "High-altitude lake surrounded by mountains in Sikkim"
+        }
+      ]
+    }
+  }
+]

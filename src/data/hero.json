@@ -1,0 +1,14 @@
+{
+  "eyebrow": "Local car rental",
+  "heading": "Comfortable Rides. Reliable Drivers.",
+  "subheading": "Reliable travel with well-maintained vehicles and experienced drivers. Choose your ride for trips, transfers, or getaways & connect with us on WhatsApp.",
+  "primaryCta": { "label": "Book a ride", "type": "whatsapp" },
+  "secondaryCta": { "label": "View Packages", "href": "/travel-packages" },
+  "ratingLabel": "User Ratings",
+  "images": [
+    { "image": "/images/hero/kaziranga-rhino-sunset.jpg", "alt": "Rhino crossing a river at sunset in Kaziranga", "span": "tall" },
+    { "image": "/images/hero/snow-road-cab.jpg", "alt": "Explore Roots cab on a snow-covered mountain road", "span": "wide" },
+    { "image": "/images/hero/monastery-gate.jpg", "alt": "Traditional monastery gate decorated with prayer flags", "span": "wide" },
+    { "image": "/images/hero/winter-cottage.jpg", "alt": "Wooden cottage under fresh snowfall in Arunachal Pradesh", "span": "tall" }
+  ]
+}
