@@ -67,23 +67,26 @@ export default function PackageDetailPage({ params }) {
           </ol>
         </nav>
 
-        <div className="grid items-start gap-10 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] lg:gap-10 xl:gap-12">
-          <div>
+        <div className="grid items-start gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] lg:gap-10 xl:gap-12">
+          {/* Images, title and meta chips */}
+          <div className="lg:order-1">
             <PackageHero pkg={pkg} />
-
-            <div className="mt-10 grid gap-6 lg:mt-12 lg:gap-7">
-              <PackageOverview pkg={pkg} />
-              <PackageHighlights pkg={pkg} />
-              <StopHighlights pkg={pkg} />
-              <Itinerary pkg={pkg} />
-              <PackageInclusions pkg={pkg} />
-            </div>
           </div>
 
-          <aside className="space-y-5 lg:sticky lg:top-24">
+          {/* Booking panel — second on mobile, pinned on desktop */}
+          <aside className="space-y-5 lg:order-2 lg:row-span-2 lg:sticky lg:top-24">
             <PackageFeatureImage pkg={pkg} />
             <PriceTiers pkg={pkg} />
           </aside>
+
+          {/* Everything else — last on mobile, under the hero on desktop */}
+          <div className="grid gap-6 lg:order-3 lg:gap-7">
+            <PackageOverview pkg={pkg} />
+            <PackageHighlights pkg={pkg} />
+            <StopHighlights pkg={pkg} />
+            <Itinerary pkg={pkg} />
+            <PackageInclusions pkg={pkg} />
+          </div>
         </div>
       </Container>
 
